@@ -26,9 +26,3 @@ This project parses, validates, and evaluates complex mathematical expressions w
 - **Paradigm:** Object-Oriented & Functional Programming (immutability with `data class`)
 
 ---
-
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/tu-usuario/smart-calculator.git](https://github.com/tu-usuario/smart-calculator.git)
